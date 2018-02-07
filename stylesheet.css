@@ -51,6 +51,20 @@ form {
   height: 34px;
 }
 
+#fsl {
+  margin-left: 30px;
+}
+
+#fsr {
+  margin-right: 30px;
+  float: right;
+}
+
+.footerLinks {
+  padding-left: 27px;
+  margin-left: 0;
+}
+
 /*-- editted out for learning I guess --
 #outerbox {
   box-shadow: rgba(0, 0, 0, 0.16) 0px 2px 2px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
