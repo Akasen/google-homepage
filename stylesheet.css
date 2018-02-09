@@ -18,11 +18,16 @@ form {
   text-align: center;
 }
 
-#topthing {
+#hbar {
   top: -295px;
-  bottom: 1855px;
   right: 0;
+  width: 100%;
+}
+
+#hptl {
   position: absolute;
+  margin: 7px 0 0 10px;
+  font-size: 13px;
 }
 
 #searchbox {
